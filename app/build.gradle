@@ -46,8 +46,8 @@ dependencies {
     implementation 'io.reactivex.rxjava2:rxjava:2.2.18'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
 
-    // Rx Android Networking
-    implementation 'com.amitshekhar.android:jackson-android-networking:1.0.2'
+    // Networking
+    implementation "com.amitshekhar.android:rx2-android-networking:1.0.1"
 
     //retrofit for Networking.
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
